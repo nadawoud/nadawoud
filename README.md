@@ -11,9 +11,9 @@
 
 - 🙌🏼 I’m looking to collaborate on `an interesting iOS project`.
 
-- 📝 I write articles on my blog: [Nada Writes Stuff](https://nadawoud.hashnode.dev/).
+- ✍🏻 I write articles on my blog: [Nada Writes Stuff](https://nadawoud.hashnode.dev/).
 
-- 📄 Find more about my experience on [Linkedin](https://www.linkedin.com/in/nadawoud/).
+- 💼 Find more about my experience on [Linkedin](https://www.linkedin.com/in/nadawoud/).
 
 - ⚡ Fun fact about me: `I love cooking`.
 
